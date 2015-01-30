@@ -15,7 +15,8 @@
                 }
 			
                 /**
-                 * Prepare fields
+                 * Prepare hola
+				fields
                  */
                 for (var fieldKey in $scope.options.listFields) {
                     $scope.options.listFields.sorting = '';
